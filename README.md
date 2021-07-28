@@ -1,4 +1,4 @@
-**Coding Challenge link:
+Coding Challenge link:
 URL: https://codesandbox.io/s/2021-internship-exercise-menu-forked-gd8lj?file=/README.md
 
 
@@ -7,10 +7,10 @@ URL: https://codesandbox.io/s/2021-internship-exercise-menu-forked-gd8lj?file=/R
 
 # Work / Project Examples:
 Provide up to three examples of work/projects that you’ve recently participated in and provide detailed information about your role and contributions to the project:
-**All of the projects in my resume are personal projects and I don’t have any professional experience, and they mainly focus on Java Script and its frame work React.js.
-**Expensify App: using React/Redux and Firebase.
-**Node.js Weather App: an app with node.js which uses express as its web server.
-**widgets-app-react: an app with React Hooks.
+## All of the projects in my resume are personal projects and I don’t have any professional experience, and they mainly focus on Java Script and its frame work React.js.
+## Expensify App: using React/Redux and Firebase.
+## Node.js Weather App: an app with node.js which uses express as its web server.
+## widgets-app-react: an app with React Hooks.
 
 ## Inspiration
 Provide up to three examples of work that has recently inspired you from a technical perspective. These can be open-source projects, CodePens/CodeSandboxes, blog posts, etc. Be sure to include specifics on what you found inspiring.
