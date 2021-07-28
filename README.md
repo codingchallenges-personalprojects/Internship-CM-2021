@@ -12,13 +12,13 @@ Provide up to three examples of work/projects that you’ve recently participate
 **Node.js Weather App: an app with node.js which uses express as its web server.
 **widgets-app-react: an app with React Hooks.
 
-# Inspiration
+## Inspiration
 Provide up to three examples of work that has recently inspired you from a technical perspective. These can be open-source projects, CodePens/CodeSandboxes, blog posts, etc. Be sure to include specifics on what you found inspiring.
-***Expensify-app:
+###Expensify-app:
 Using React/Redux and firebase as a database. This app is one of the most challenging projects I did, because it was the first time I used a database in my project to store the data in. I practiced concepts such as CRUD operation on database and authentication with Google Auth in this project. I also learnt how to deploy a projects on Herokou for the first time.
 **URL: https://expensify-app-react-01.herokuapp.com/
 
-**Nodejs-weather-app
+## Nodejs-weather-app
 In this app for the first time I worked with back-end and it helped me to find out the concepts of server side and client side. It also gave me good ideas about the connection between server side and client side (using express). Deploying this app was really challenging because for the first time I deployed a back-end app.
 **URL: https://nodejs-weather-app-by-mitra.herokuapp.com/
 
